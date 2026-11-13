@@ -6,10 +6,10 @@ Agentic production workflow for creating short videos and social content from ph
 
 ## نمونه‌خروجی‌ها
 
-| آموزش سه‌بعدی Depth Test | تدوین فوتیج آپولو ۱۵ |
+| آموزش سه‌بعدی Depth Test | معرفی فروشگاه پیونی |
 | :---: | :---: |
-| <img src="docs/examples/depth-test-cover.jpg" width="220" alt="کاور ریل Depth Test"> | <img src="docs/examples/apollo-15-cover.jpg" width="220" alt="کاور ریل آزمایش پر و چکش آپولو ۱۵"> |
-| ریل ۲۸ ثانیه‌ای فارسی با صحنهٔ Blender، نریشن مصنوعی و آزمایش واقعی WebGL. [دانلود MP4][depth-video] · [پروژه](projects/depth-test/) | تدوین یک نمونهٔ واقعی از آرشیو ناسا با پرسش و پاسخ تصویری. [دانلود MP4][apollo-video] · [پروژه](projects/footage-demo/) |
+| <img src="docs/examples/depth-test-cover.jpg" width="220" alt="کاور ریل Depth Test"> | <img src="docs/examples/peony-cover.jpg" width="220" alt="کاور ریل معرفی فروشگاه پیونی"> |
+| ریل ۲۸ ثانیه‌ای فارسی با صحنهٔ Blender، نریشن مصنوعی و آزمایش واقعی WebGL. [دانلود MP4][depth-video] · [پروژه](projects/depth-test/) | ریل ۲۸ ثانیه‌ای با کپچر واقعی فروشگاه، گوشی سه‌بعدی و تایپوگرافی فارسی. [دانلود MP4][peony-video] · [پروژه](projects/peony/) |
 
 **زمین در سه عکس** · کاروسل فارسی از تصاویر آرشیوی ناسا و JPL-Caltech. [پروژه و منابع](projects/photo-carousel/) · [دانلود هر سه اسلاید][carousel-zip]
 
@@ -131,5 +131,5 @@ npm run render:reel
 
 [release]: https://github.com/pouyarouzbeh/ai-video-maker/releases/tag/v0.1.0-preview
 [depth-video]: https://github.com/pouyarouzbeh/ai-video-maker/releases/download/v0.1.0-preview/depth-test-reel.mp4
-[apollo-video]: https://github.com/pouyarouzbeh/ai-video-maker/releases/download/v0.1.0-preview/apollo-15-reel.mp4
+[peony-video]: https://github.com/pouyarouzbeh/ai-video-maker/releases/download/v0.1.0-preview/peony-reel.mp4
 [carousel-zip]: https://github.com/pouyarouzbeh/ai-video-maker/releases/download/v0.1.0-preview/earth-carousel.zip
