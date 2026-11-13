@@ -1,0 +1,24 @@
+{
+  "slug": "depth-test",
+  "title": "کدام سطح روی تصویر می‌ماند؟",
+  "goal": "فهمیدن مقایسهٔ عمق در یک نقطهٔ مشترک و پیش‌بینی نتیجه با جابه‌جا کردن ترتیب رسم",
+  "audience": "تازه‌کاران برنامه‌نویسی و گرافیک",
+  "language": "fa",
+  "format": "reel",
+  "teachingObjective": "بیننده بتواند با دیدن عمق ذخیره‌شده و عمق ورودی توضیح دهد چرا نمونهٔ جدید رد یا پذیرفته می‌شود.",
+  "style": {
+    "background": "#0c131b",
+    "foreground": "#f5f8f9",
+    "accent": "#69ead9",
+    "titleSize": 72,
+    "referenceFrames": [
+      {"assetId": "front", "purpose": "ترکیب روبه‌رو و نقطهٔ مشترک دو سطح"},
+      {"assetId": "oblique", "purpose": "فاصلهٔ عمقی، نور نرم و جدایی دو صفحه"}
+    ],
+    "palette": {"near": "#69ead9", "far": "#ffca7e"},
+    "fonts": ["Vazirmatn", "Consolas"],
+    "grade": "Blender AgX و نور نرم ثابت؛ متن و رنگ داده‌ها در کامپوزیت؛ خروجی SDR BT.709"
+  },
+  "audioTarget": {"lufs": -14, "maxTruePeak": -1},
+  "coverFrame": 12
+}

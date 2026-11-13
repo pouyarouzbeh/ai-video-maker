@@ -1,0 +1,8 @@
+{
+  "fps": 30,
+  "duration": 207,
+  "shots": [
+    {"id": "prediction", "from": 0, "to": 128},
+    {"id": "observation", "from": 128, "to": 207}
+  ]
+}

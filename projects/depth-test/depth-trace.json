@@ -1,0 +1,53 @@
+{
+  "api": "WebGL 1",
+  "rule": "GL_LESS",
+  "depthWrites": true,
+  "runs": [
+    {
+      "order": [
+        "near",
+        "far"
+      ],
+      "clearDepth": 1,
+      "steps": [
+        {
+          "input": "near",
+          "inputDepth": 0.25,
+          "passed": true,
+          "visible": "near",
+          "storedDepth": 0.25
+        },
+        {
+          "input": "far",
+          "inputDepth": 0.75,
+          "passed": false,
+          "visible": "near",
+          "storedDepth": 0.25
+        }
+      ]
+    },
+    {
+      "order": [
+        "far",
+        "near"
+      ],
+      "clearDepth": 1,
+      "steps": [
+        {
+          "input": "far",
+          "inputDepth": 0.75,
+          "passed": true,
+          "visible": "far",
+          "storedDepth": 0.75
+        },
+        {
+          "input": "near",
+          "inputDepth": 0.25,
+          "passed": true,
+          "visible": "near",
+          "storedDepth": 0.25
+        }
+      ]
+    }
+  ]
+}

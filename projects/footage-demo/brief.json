@@ -1,0 +1,14 @@
+{
+  "slug": "footage-demo",
+  "format": "reel",
+  "title": "پر یا چکش، روی ماه؟",
+  "goal": "در یک ریل کوتاه، ترتیب رسیدن پر و چکش به سطح ماه را از یک فیلم آرشیوی نشان بدهیم.",
+  "audience": "عموم علاقه‌مندان به علم و تاریخ فضا",
+  "language": "fa",
+  "teachingObjective": "مخاطب بتواند نتیجهٔ آزمایش پر و چکش آپولو ۱۵ را توضیح دهد.",
+  "durationSeconds": 6.9,
+  "inputs": [
+    {"id": "archive", "kind": "video", "role": "source", "path": "public/footage-demo/hammer-feather.mp4"}
+  ],
+  "style": {"background": "#181915", "foreground": "#F7F2DF", "accent": "#F4C575"}
+}

@@ -1,0 +1,8 @@
+{
+  "files": {
+    "front": {"path": "plates/front.png", "kind": "image", "source": "depth_scene.py", "license": "Original project asset"},
+    "oblique": {"path": "plates/oblique.png", "kind": "image", "source": "depth_scene.py", "license": "Original project asset"},
+    "turn": {"path": "plates/turn.mp4", "kind": "video", "source": "depth_scene.py", "license": "Original project asset"},
+    "narration": {"path": "audio/mix.wav", "kind": "audio", "source": "narration.md", "license": "Original mix, locally synthesized Persian narration"}
+  }
+}

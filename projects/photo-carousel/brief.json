@@ -1,0 +1,15 @@
+{
+  "slug": "photo-carousel",
+  "format": "carousel",
+  "title": "زمین در سه عکس",
+  "goal": "با سه عکس آرشیوی نشان دهیم زمین از سه نقطهٔ دید چگونه در قاب دیده می‌شود.",
+  "audience": "عموم علاقه‌مندان به عکاسی و فضا",
+  "language": "fa",
+  "teachingObjective": "مخاطب بتواند نقطهٔ دید دوربین را در هر یک از سه عکس تشخیص دهد.",
+  "inputs": [
+    {"id": "earthrise", "kind": "image", "role": "source", "path": "public/photo-carousel/earthrise.jpg"},
+    {"id": "blue-marble", "kind": "image", "role": "source", "path": "public/photo-carousel/blue-marble.jpg"},
+    {"id": "pale-blue-dot", "kind": "image", "role": "source", "path": "public/photo-carousel/pale-blue-dot.jpg"}
+  ],
+  "style": {"background": "#101C2A", "foreground": "#FAF6EB", "accent": "#9BDCF0"}
+}

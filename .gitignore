@@ -1,0 +1,13 @@
+node_modules/
+.agents/skills/ffmpeg-skill/
+.agents/skills/remotion-best-practices/
+.agents/skills/video-shotcraft/
+.tools/
+.cache/
+out/
+public/peony/
+__pycache__/
+projects/peony/assets.json
+.env
+.env.*
+!.env.example

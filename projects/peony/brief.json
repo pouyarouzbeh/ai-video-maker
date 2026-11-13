@@ -1,0 +1,24 @@
+{
+  "slug": "peony",
+  "brand": "Peony Shoes",
+  "studio": "Inform Studio",
+  "domain": "peonyshoes.ir",
+  "title": "طراحی فروشگاه آنلاین پیونی",
+  "coverTitle": "طراحی فروشگاه پیونی",
+  "cta": "برای طراحی فروشگاه آنلاین، پیام بدهید",
+  "catalogLabel": "مرور مجموعه",
+  "productLabel": "ایرفورس کرم",
+  "detailLabel": "جزئیات از نزدیک",
+  "listStep": "مرور محصولات",
+  "productStep": "صفحهٔ محصول",
+  "galleryStep": "گالری تصاویر",
+  "tapTargets": [[0.265, 0.51], [0.71, 0.583]],
+  "site": "https://peonyshoes.ir/",
+  "catalog": "/products/",
+  "products": [
+    "/products/peony-2610-airforce-cream/",
+    "/products/peony-2610-530-gray/",
+    "/products/peony-2610-blazer/",
+    "/products/peony-2610-chicago/"
+  ]
+}

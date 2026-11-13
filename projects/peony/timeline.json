@@ -1,0 +1,30 @@
+{
+  "fps": 30,
+  "duration": 840,
+  "bpm": 120,
+  "shots": [
+    {"id": "hook", "from": 0, "to": 90},
+    {"id": "phone", "from": 90, "to": 240},
+    {"id": "catalog", "from": 240, "to": 420},
+    {"id": "interaction", "from": 420, "to": 630},
+    {"id": "details", "from": 630, "to": 750},
+    {"id": "end", "from": 750, "to": 840}
+  ],
+  "cues": [
+    {"frame": 0, "sound": "impact"},
+    {"frame": 78, "sound": "whoosh"},
+    {"frame": 90, "sound": "impact"},
+    {"frame": 225, "sound": "whoosh"},
+    {"frame": 272, "sound": "tap"},
+    {"frame": 293, "sound": "tap"},
+    {"frame": 310, "sound": "tap"},
+    {"frame": 324, "sound": "tap"},
+    {"frame": 402, "sound": "whoosh"},
+    {"frame": 476, "sound": "tap"},
+    {"frame": 551, "sound": "tap"},
+    {"frame": 615, "sound": "whoosh"},
+    {"frame": 630, "sound": "impact"},
+    {"frame": 735, "sound": "whoosh"},
+    {"frame": 750, "sound": "impact"}
+  ]
+}

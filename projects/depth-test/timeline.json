@@ -1,0 +1,14 @@
+{
+  "fps": 30,
+  "duration": 840,
+  "shots": [
+    {"id": "question", "from": 0, "to": 90},
+    {"id": "turn", "from": 90, "to": 150},
+    {"id": "angle", "from": 150, "to": 240},
+    {"id": "rule", "from": 240, "to": 393},
+    {"id": "near-first", "from": 393, "to": 540},
+    {"id": "far-first", "from": 540, "to": 690},
+    {"id": "answer", "from": 690, "to": 840}
+  ],
+  "audio": {"assetId": "narration"}
+}

@@ -1,0 +1,40 @@
+{
+  "files": {
+    "earthrise": {
+      "path": "earthrise.jpg",
+      "kind": "image",
+      "source": "https://science.nasa.gov/resource/image-earthrise/",
+      "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/August-2013_1920x1200.jpg",
+      "credit": "NASA / William Anders, Apollo 8",
+      "license": "NASA media guidelines for educational and informational use with attribution",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1280,
+      "height": 800,
+      "adaptation": "Use the downloaded crop as supplied by NASA. Show the full image in the slide."
+    },
+    "blue-marble": {
+      "path": "blue-marble.jpg",
+      "kind": "image",
+      "source": "https://www.nasa.gov/image-article/blue-marble-view-from-apollo-17/",
+      "download": "https://eol.jsc.nasa.gov/DatabaseImages/scanned/highres/AS17/AS17-148-22727.JPG",
+      "credit": "NASA / Apollo 17 crew, AS17-148-22727",
+      "license": "NASA media guidelines for educational and informational use with attribution",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 1536,
+      "height": 1024,
+      "adaptation": "This copy is the 1536 × 1024 crop in the NASA JSC archive. Show it without an additional crop."
+    },
+    "pale-blue-dot": {
+      "path": "pale-blue-dot.jpg",
+      "kind": "image",
+      "source": "https://science.nasa.gov/photojournal/pale-blue-dot-revisited/",
+      "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia23/pia23645/PIA23645.jpg",
+      "credit": "NASA/JPL-Caltech, Voyager 1",
+      "license": "NASA/JPL-Caltech image use policy with attribution",
+      "licenseUrl": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+      "width": 1280,
+      "height": 1266,
+      "adaptation": "Use the NASA/JPL-Caltech 2020 processed version. Preserve the full frame so the bright speck remains right of center."
+    }
+  }
+}

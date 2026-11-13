@@ -1,0 +1,12 @@
+{
+  "claims": [
+    {
+      "id": "apollo-drop",
+      "statement": "در نمایش آپولو ۱۵، پر و چکش تقریباً هم‌زمان به سطح ماه رسیدند.",
+      "status": "qualified",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html",
+      "section": "Apollo 15 Preliminary Science Report excerpt, Summary of Scientific Results, p. 2-11",
+      "qualification": "هم‌زمانی در محدودهٔ دقت رهاسازی و مشاهده گزارش شده است. آزمایش در شرایط نزدیک به خلأ انجام شد."
+    }
+  ]
+}

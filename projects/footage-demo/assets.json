@@ -1,0 +1,18 @@
+{
+  "files": {
+    "archive": {
+      "path": "hammer-feather.mp4",
+      "kind": "video",
+      "source": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html",
+      "download": "https://nssdc.gsfc.nasa.gov/planetary/image/AS15_Ham_feath_drop.mp4",
+      "credit": "NASA / Apollo 15 television archive",
+      "license": "NASA media guidelines for educational and informational use with attribution",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "width": 768,
+      "height": 576,
+      "fps": 30,
+      "frames": 209,
+      "adaptation": "Excerpt from 00:59, approximately 7 seconds. Kept the 4:3 broadcast image intact, normalized to constant 30 fps and omitted source audio for this text-led edit."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 3
+
+[mcp_servers.blender]
+command = "node"
+args = ["scripts/mcp-launch.mjs", "blender"]
+cwd = "."
+startup_timeout_sec = 45
+tool_timeout_sec = 1800
+
+[mcp_servers.ffmpeg]
+command = "node"
+args = ["scripts/mcp-launch.mjs", "ffmpeg"]
+cwd = "."
+startup_timeout_sec = 35
+tool_timeout_sec = 180

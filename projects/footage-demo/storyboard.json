@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "prediction",
+      "purpose": "به بیننده برای پیش‌بینی نتیجه وقت بده.",
+      "kind": "video",
+      "assetIds": ["archive"],
+      "title": "پر یا چکش؟",
+      "onScreenText": "روی ماه، کدوم زودتر به زمین می‌رسه؟",
+      "visual": "قاب کامل دوربین آرشیوی. روی دست‌های باز دیوید اسکات مکث کن تا سؤال خوانده شود.",
+      "fit": "contain",
+      "status": "approved"
+    },
+    {
+      "id": "observation",
+      "purpose": "نتیجه را هم‌زمان با رهاشدن و برخورد اشیا آشکار کن.",
+      "kind": "video",
+      "assetIds": ["archive"],
+      "title": "تقریباً هم‌زمان",
+      "onScreenText": "پر و چکش به سطح ماه می‌رسند. · آرشیو ناسا، آپولو ۱۵",
+      "visual": "همان قاب آرشیوی را نگه دار. متن نزدیک لحظهٔ رهاشدن عوض می‌شود و برای خواندن می‌ماند.",
+      "claimIds": ["apollo-drop"],
+      "trimBefore": 128,
+      "fit": "contain",
+      "status": "approved"
+    }
+  ]
+}

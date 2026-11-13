@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "lunar-orbit",
+      "purpose": "باز کردن مجموعه با افق ماه که نقطهٔ دید اول را مشخص می‌کند.",
+      "kind": "image",
+      "assetIds": ["earthrise"],
+      "title": "زمین در سه عکس",
+      "onScreenText": "طلوع زمین از مدار ماه · آپولو ۸",
+      "visual": "زمین و افق ماه را در یک قاب نگه دار. عنوان و توضیح کوتاه فضای مستقلی برای خواندن دارند.",
+      "claimIds": ["earthrise-origin"],
+      "fit": "contain",
+      "status": "approved"
+    },
+    {
+      "id": "blue-disc",
+      "purpose": "مقایسه با یک قاب که قرص زمین بخش عمده‌ای از آن را می‌گیرد.",
+      "kind": "image",
+      "assetIds": ["blue-marble"],
+      "title": "قرص آبی زمین",
+      "onScreenText": "عکس خدمهٔ آپولو ۱۷ در مسیر ماه",
+      "visual": "قاب کامل عکس را نگه دار تا اندازهٔ زمین در ترکیب اصلی دیده شود.",
+      "claimIds": ["blue-marble-origin"],
+      "fit": "contain",
+      "status": "approved"
+    },
+    {
+      "id": "distant-earth",
+      "purpose": "پایان با تغییر مقیاس و راهنمای پیدا کردن زمین در قاب.",
+      "kind": "image",
+      "assetIds": ["pale-blue-dot"],
+      "title": "یک نقطهٔ آبی کم‌رنگ",
+      "onScreenText": "وویجر ۱ · زمین را در پرتو نور، کمی راستِ مرکز قاب پیدا کن.",
+      "visual": "قاب را کامل نگه دار. راهنمای متنی کنار عکس کمک می‌کند نقطه در اندازهٔ موبایل پیدا شود.",
+      "claimIds": ["pale-dot-origin"],
+      "fit": "contain",
+      "status": "approved"
+    }
+  ]
+}

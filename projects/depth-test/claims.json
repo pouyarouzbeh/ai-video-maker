@@ -1,0 +1,20 @@
+{
+  "claims": [
+    {
+      "id": "depth-compare",
+      "statement": "با آزمون عمق فعال، GL_LESS عمق نمونهٔ ورودی را با مقدار ذخیره‌شدهٔ همان نقطه مقایسه می‌کند و نمونه با عمق کمتر را می‌پذیرد.",
+      "status": "verified",
+      "source": "https://wikis.khronos.org/opengl/Depth_Test",
+      "locator": "Depth test, conditional test and GL_LESS row",
+      "qualification": "Depth buffer available; depth writes enabled for this example; cleared to 1.0."
+    },
+    {
+      "id": "two-orders",
+      "statement": "در محل هم‌پوشانی دو سطح مات با عمق‌های متمایز ۰٫۲۵ و ۰٫۷۵، هر دو ترتیب رسم روی نمونهٔ انتخابی به سطح ۰٫۲۵ ختم می‌شوند.",
+      "status": "verified",
+      "source": "https://wikis.khronos.org/opengl/Depth_Test",
+      "locator": "Depth Test and Depth buffer; observed in both runs in depth-trace.json",
+      "qualification": "Standard depth range and GL_LESS, distinct sample depths, no blending, no disabled depth writes."
+    }
+  ]
+}

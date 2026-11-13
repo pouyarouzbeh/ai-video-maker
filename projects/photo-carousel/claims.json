@@ -1,0 +1,7 @@
+{
+  "claims": [
+    {"id": "earthrise-origin", "statement": "ویلیام اندرس عکس طلوع زمین را در مدار ماه در مأموریت آپولو ۸ گرفت.", "status": "verified", "source": "https://science.nasa.gov/resource/image-earthrise/", "section": "First paragraph immediately above Downloads"},
+    {"id": "blue-marble-origin", "statement": "خدمهٔ آپولو ۱۷ عکس Blue Marble را در مسیر ماه گرفتند.", "status": "verified", "source": "https://www.nasa.gov/image-article/blue-marble-view-from-apollo-17/", "section": "Original caption for photograph AS17-148-22727"},
+    {"id": "pale-dot-origin", "statement": "در عکس وویجر ۱، زمین نقطهٔ روشنِ روی پرتو، کمی راستِ مرکز است.", "status": "qualified", "source": "https://science.nasa.gov/photojournal/pale-blue-dot-revisited/", "section": "Description, first paragraph after Figure A", "qualification": "تصویرِ این اسلاید نسخهٔ بازپردازش‌شدهٔ رنگی ۲۰۲۰ از داده‌های اصلی ۱۹۹۰ است."}
+  ]
+}
